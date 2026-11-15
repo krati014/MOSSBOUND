@@ -1,0 +1,35 @@
+# --- Unity (generated, rebuilt automatically when the project is opened) ---
+MossboundUnity/[Ll]ibrary/
+MossboundUnity/[Tt]emp/
+MossboundUnity/[Oo]bj/
+MossboundUnity/[Bb]uild/
+MossboundUnity/[Bb]uilds/
+MossboundUnity/[Ll]ogs/
+MossboundUnity/[Uu]ser[Ss]ettings/
+MossboundUnity/MemoryCaptures/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.unityproj
+.vs/
+.idea/
+
+# --- Batch-test tooling: private copy of the Unity project and run logs ---
+tools/_batch_project/
+tools/_batch_*.log
+
+# --- Python backend runtime output ---
+backend/logs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- OS ---
+Thumbs.db
+desktop.ini
+.DS_Store
